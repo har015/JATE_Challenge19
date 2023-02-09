@@ -1,7 +1,9 @@
 # JATE_Challenge19
 
 updated JS in client
+
 added get and pull methods with indexDB
+
 added improvments to necessary TODO's
 
 
